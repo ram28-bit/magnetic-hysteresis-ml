@@ -75,4 +75,3 @@ tests/                    physics and pipeline tests
 - Features are derived from each sample's own waveform, and splits are made per operating condition so no loop is shared between train and test.
 - Out-of-range inputs raise a warning in both the API response and the dashboard.
 # magnetic-hysteresis-ml
-# magnetic-hysteresis-ml
